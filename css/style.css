@@ -26,7 +26,7 @@ nav .navbar-nav li .contact-us{padding: 5px 15px; font-size: 1rem !important; bo
 @media(max-width:576px){
 nav .navbar-brand{font-size: 30px !important; color: #0d13d7 !important; font-weight: 500;}
 }
-section.home{background: url("./images/Banner\ Slider.png"); background-repeat: no-repeat; background-size: cover; background-position: center; padding-top:6rem; padding-bottom: 14rem; margin-top: -5.6rem; background-color: #f9f9ff; background-blend-mode: normal;}
+section.home{background: url("../images/Banner\ Slider.png"); background-repeat: no-repeat; background-size: cover; background-position: center; padding-top:6rem; padding-bottom: 14rem; margin-top: -5.6rem; background-color: #f9f9ff; background-blend-mode: normal;}
 section.home h1{color: white !important;}
 section.home p{color: white !important; font-size: 1.2rem!important;}
 section.home .btn{font-size: 24px; color: #000000; font-weight: 500;  text-align: center;}
